@@ -10,5 +10,5 @@
     python create_db.py
 ```
 
-[based on Udemy course](#ihttps://www.udemy.com/course/master-timeseries-by-using-the-tick-stack-example-by-example/)
+[based on Udemy course] (#https://www.udemy.com/course/master-timeseries-by-using-the-tick-stack-example-by-example/)
  
